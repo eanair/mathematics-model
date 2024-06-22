@@ -18,30 +18,30 @@ $$\begin{flalign*}
 
 ## Result $R = Me^{-\left(\frac{2}{\log{S_{d}}}-N\right)^{2}}, \{N \ge 0\}$
 
-> <img src="https://github.com/eanair/mathematics-model/blob/main/a%20Day.png?raw=true" width="50%" />
+> <img src="https://github.com/eanair/mathematics-model/blob/main/The-pain-of-quitting-as-smoking-experience-increases-Mathematical-model/a%20Day.png?raw=true" width="50%" />
 >
 > **Figure 1.** Smoking duration 1 day.(black=pain, red=Max magnitude)
 
-> <img src="https://github.com/eanair/mathematics-model/blob/main/a%20Week.png?raw=true" width="50%" />
+> <img src="https://github.com/eanair/mathematics-model/blob/main/The-pain-of-quitting-as-smoking-experience-increases-Mathematical-model/a%20Week.png?raw=true" width="50%" />
 > 
 > **Figure 2.** Smoking duration 1 week.(black=pain, red=Max magnitude)
 
-> <img src="https://github.com/eanair/mathematics-model/blob/main/a%20Month.png?raw=true" width="50%" />
+> <img src="https://github.com/eanair/mathematics-model/blob/main/The-pain-of-quitting-as-smoking-experience-increases-Mathematical-model/a%20Month.png?raw=true" width="50%" />
 > 
 > **Figure 3.** Smoking duration 1 month.(black=pain, red=Max magnitude)
 
-> <img src="https://github.com/eanair/mathematics-model/blob/main/a%20Year.png?raw=true" width="50%" />
+> <img src="https://github.com/eanair/mathematics-model/blob/main/The-pain-of-quitting-as-smoking-experience-increases-Mathematical-model/a%20Year.png?raw=true" width="50%" />
 > 
 > **Figure 4.** Smoking duration 1 year.(black=pain, red=Max magnitude)
 
-> <img src="https://github.com/eanair/mathematics-model/blob/main/5%20years.png?raw=true" width="50%" />
+> <img src="https://github.com/eanair/mathematics-model/blob/main/The-pain-of-quitting-as-smoking-experience-increases-Mathematical-model/5%20years.png?raw=true" width="50%" />
 > 
 > **Figure 5.** Smoking duration 5 years.(black=pain, red=Max magnitude)
 
-> <img src="https://github.com/eanair/mathematics-model/blob/main/15%20years.png?raw=true" width="50%" />
+> <img src="https://github.com/eanair/mathematics-model/blob/main/The-pain-of-quitting-as-smoking-experience-increases-Mathematical-model/15%20years.png?raw=true" width="50%" />
 > 
 > **Figure 6.** Smoking duration 15 years.(black=pain, red=Max magnitude)
 
-> <img src="https://github.com/eanair/mathematics-model/blob/main/50%20years.png?raw=true" width="50%" />
+> <img src="https://github.com/eanair/mathematics-model/blob/main/The-pain-of-quitting-as-smoking-experience-increases-Mathematical-model/50%20years.png?raw=true" width="50%" />
 > 
 > **Figure 7.** Smoking duration 50 years.(black=pain, red=Max magnitude)
